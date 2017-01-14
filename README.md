@@ -7,8 +7,8 @@ This project demonstrates a simple hybrid angular 2 and 1 app using ngUpgrade.
 The project uses Angular 2 for routing.
 
 There are two routes available:
-/sample - combines an angular 1 directive with an angular 2 component
-/page2 - a purely angular 2 component
+1. /sample - combines an angular 1 directive with an angular 2 component
+2. /page2 - a purely angular 2 component
 
 References:
 https://plnkr.co/edit/gMSwKKIgEkwcijCCaCMW?p=preview
