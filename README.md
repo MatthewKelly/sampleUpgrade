@@ -10,6 +10,9 @@ There are two routes available:
 /sample - combines an angular 1 directive with an angular 2 component
 /page2 - a purely angular 2 component
 
+References:
+https://plnkr.co/edit/gMSwKKIgEkwcijCCaCMW?p=preview
+https://angular.io/docs/ts/latest/guide/upgrade.html
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
