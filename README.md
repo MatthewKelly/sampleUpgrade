@@ -2,6 +2,15 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
+This project demonstrates a simple hybrid angular 2 and 1 app using ngUpgrade.  
+
+The project uses Angular 2 for routing.
+
+There are two routes available:
+/sample - combines an angular 1 directive with an angular 2 component
+/page2 - a purely angular 2 component
+
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
