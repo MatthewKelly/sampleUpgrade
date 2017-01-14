@@ -13,6 +13,12 @@ export let app = () => {
                     user : '<'
                 },
                 controller: function () {
+                    this.$onInit = function() {
+                        console.log('angular 1: init called');
+                    };
+                    this.$onDestroy = function() {
+                        console.log('angular 1: destroy called');
+                    };
                 }
             });
 
